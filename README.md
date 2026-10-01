@@ -1,7 +1,5 @@
 # Taller de NLP: feedback y sentimiento
 
-Proyecto académico para analizar reseñas de clientes en español con spaCy, TextBlob, Gensim y Pandas.
-
 ## Integrantes
 
 - Guillermo Andres Minero Alfaro
@@ -21,11 +19,3 @@ El notebook descarga automáticamente [Andalusian Hotels’ Reviews](https://www
 1. Abre `main.ipynb` en [Google Colab](https://colab.research.google.com/).
 2. Ejecuta todas las celdas en orden.
 3. Revisa el gráfico, los cinco comentarios similares y las palabras de cada tópico.
-
-No es necesario subir un archivo CSV ni instalar dependencias manualmente.
-
-## Trabajo en equipo
-
-- Integrante 1: revisión de descarga, limpieza, lematización y sentimiento.
-- Integrante 2: revisión de similitud, tópicos LDA, gráfico y conclusiones.
-- Ambos integrantes: ejecutar el notebook completo y validar la entrega final.
