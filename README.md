@@ -2,6 +2,11 @@
 
 Proyecto académico para analizar reseñas de clientes en español con spaCy, TextBlob, Gensim y Pandas.
 
+## Integrantes
+
+- Guillermo Andres Minero Alfaro
+- Ruben Armando Vigil Mejia
+
 ## Archivos
 
 - `main.ipynb`: contiene la descarga, limpieza, análisis de sentimiento, similitud semántica, tópicos LDA y conclusiones.
@@ -16,7 +21,6 @@ El notebook descarga automáticamente [Andalusian Hotels’ Reviews](https://www
 1. Abre `main.ipynb` en [Google Colab](https://colab.research.google.com/).
 2. Ejecuta todas las celdas en orden.
 3. Revisa el gráfico, los cinco comentarios similares y las palabras de cada tópico.
-4. Antes de entregar, renombra el notebook como `Apellido_Nombre_Taller_NLP.ipynb`.
 
 No es necesario subir un archivo CSV ni instalar dependencias manualmente.
 
